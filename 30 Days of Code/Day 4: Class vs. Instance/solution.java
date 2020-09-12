@@ -6,7 +6,7 @@ public class Person {
   
     public Person(int initialAge) {
   	if(initialAge < 0)
-    	{
+	{
             this.age = 0;
             System.out.println("Age is not valid, setting age to 0.");
         }
