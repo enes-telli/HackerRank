@@ -2,13 +2,11 @@ import java.util.Scanner;
 
 public class Solution {
 
-    private static final Scanner scanner = new Scanner(System.in);
-
     public static void main(String[] args) {
-        int n = scanner.nextInt();
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
         int sum = 0, max = 0;
-        while(n > 0)
-        {
+        while(n > 0) {
             if(n % 2 == 1) {
                 if(++sum > max)
                     max = sum;
@@ -17,7 +15,6 @@ public class Solution {
             }
             n >>= 1;
         }
-        scanner.close();
         System.out.println(max);
     }
 }
