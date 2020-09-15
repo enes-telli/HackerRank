@@ -22,3 +22,5 @@
 |   11  |[2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays/problem)|[solution.java](https://github.com/enes-telli/HackerRank/blob/master/30%20Days%20of%20Code/Day%20_11:%202D%20Arrays/solution.java)|
 |   12  |[Inheritance](https://www.hackerrank.com/challenges/30-inheritance/problem)|[solution.java](https://github.com/enes-telli/HackerRank/blob/master/30%20Days%20of%20Code/Day%20_12:%20Inheritance/solution.java)|
 |   13  |[Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes/problem)|[solution.java](https://github.com/enes-telli/HackerRank/blob/master/30%20Days%20of%20Code/Day%20_13:%20Abstract%20Classes/solution.java)|
+|   14  |[Scope](https://www.hackerrank.com/challenges/30-scope/problem)|[solution.java](https://github.com/enes-telli/HackerRank/blob/master/30%20Days%20of%20Code/Day%20_14:%20Scope/solution.java)|
+
