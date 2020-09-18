@@ -24,3 +24,5 @@
 |   13  |[Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes/problem)|[solution.java](https://github.com/enes-telli/HackerRank/blob/master/30%20Days%20of%20Code/Day%20_13:%20Abstract%20Classes/solution.java)|
 |   14  |[Scope](https://www.hackerrank.com/challenges/30-scope/problem)|[solution.java](https://github.com/enes-telli/HackerRank/blob/master/30%20Days%20of%20Code/Day%20_14:%20Scope/solution.java)|
 |   15  |[Linked List](https://www.hackerrank.com/challenges/30-linked-list/problem)|[solution.java](https://github.com/enes-telli/HackerRank/blob/master/30%20Days%20of%20Code/Day%20_15:%20Linked%20List/solution.java)|
+|   16  |[Exceptions - String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem)|[solution.java](https://github.com/enes-telli/HackerRank/blob/master/30%20Days%20of%20Code/Day%20_16:%20Exceptions%20-%20String%20to%20Integer/solution.java)|
+|   17  |[More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions/problem)|[solution.java](https://github.com/enes-telli/HackerRank/blob/master/30%20Days%20of%20Code/Day%20_17:%20More%20Exceptions/solution.java)|
