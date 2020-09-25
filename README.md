@@ -32,3 +32,4 @@
 |   21  |[Generics](https://www.hackerrank.com/challenges/30-generics/problem)|[solution.java](https://github.com/enes-telli/HackerRank/blob/master/30%20Days%20of%20Code/Day%20_21:%20Generics/solution.java)|
 |   22  |[Binary Search Trees](https://www.hackerrank.com/challenges/30-binary-search-trees/problem)|[solution.java](https://github.com/enes-telli/HackerRank/blob/master/30%20Days%20of%20Code/Day%20_22:%20Binary%20Search%20Trees/solution.java)|
 |   23  |[BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees/problem)|[solution.java](https://github.com/enes-telli/HackerRank/blob/master/30%20Days%20of%20Code/Day%20_23:%20BST%20Level-Order%20Traversal/solution.java)|
+|   24  |[More Linked Lists](https://www.hackerrank.com/challenges/30-linked-list-deletion/problem)|[solution.java](https://github.com/enes-telli/HackerRank/blob/master/30%20Days%20of%20Code/Day%20_24:%20More%20Linked%20Lists/solution.java)|
