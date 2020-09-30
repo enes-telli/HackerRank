@@ -37,3 +37,4 @@
 |   26  |[Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic/problem)|[solution.java](https://github.com/enes-telli/HackerRank/blob/master/30%20Days%20of%20Code/Day%20_26:%20Nested%20Logic/solution.java)|
 |   27  |[Testing](https://www.hackerrank.com/challenges/30-testing/problem)|[solution.java](https://github.com/enes-telli/HackerRank/blob/master/30%20Days%20of%20Code/Day%20_27:%20Testing/solution.java)|
 |   28  |[RegEx, Patterns, and Intro to Databases](https://www.hackerrank.com/challenges/30-regex-patterns/problem)|[solution.java](https://github.com/enes-telli/HackerRank/blob/master/30%20Days%20of%20Code/Day%20_28:%20RegEx%2C%20Patterns%2C%20and%20Intro%20to%20Databases/solution.java)|
+|   29  |[Bitwise AND](https://www.hackerrank.com/challenges/30-bitwise-and/problem)|[solution.java](https://github.com/enes-telli/HackerRank/blob/master/30%20Days%20of%20Code/Day%20_29:%20Bitwise%20AND/solution.java)|
